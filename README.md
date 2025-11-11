@@ -69,7 +69,3 @@ This project was developed as part of an academic assignment to demonstrate prac
 This repository is for educational and research purposes only.  
 Feel free to fork and adapt for your own experiments with attribution.
 
----
-
-**Created by:** *[Your Name Here]*  
-**Date:** *[Month Year]*  
